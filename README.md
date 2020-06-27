@@ -23,4 +23,3 @@ $ npm run build
 
 
 
-REFERENCE: https://github.com/prismicio/reactjs-website
